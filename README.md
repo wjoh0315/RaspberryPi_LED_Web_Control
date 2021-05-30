@@ -47,7 +47,6 @@ pi@raspberrypi:/var/www $ sudo node ./src/back/server.js
 ```
 
 ### 3. Enter URL in browser
-(Chrome recommended)
 ```
 http://[Host IP]/LEDonoff.html
 ```
