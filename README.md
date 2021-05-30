@@ -34,14 +34,14 @@
 
 ## Getting Start
 ### 1. Install npm packages
-Enter the following npm command in terminal
+Enter the following npm command in terminal.
 ```
 pi@raspberrypi:/var/www/src $ npm install
 ```
 
 ### 2. Server Start
 (in apache web server)   
-Enter the following node command in terminal
+Enter the following node command in terminal.
 ```
 pi@raspberrypi:/var/www $ sudo node ./src/back/server.js
 ```
@@ -50,4 +50,9 @@ pi@raspberrypi:/var/www $ sudo node ./src/back/server.js
 ```
 http://[Host IP]/LEDonoff.html
 ```
+then, It'll be like this.
+![image](https://user-images.githubusercontent.com/65387631/120104162-1ebaaf80-c18e-11eb-9b06-fe4ac1dc48be.png)
+
+## Blog
+Naver blog [퍼텐셜의 개발 일지](https://blog.naver.com/PostView.nhn?blogId=wjoh0315&Redirect=View&logNo=222375428753&categoryNo=27&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=189979) in korea
 
