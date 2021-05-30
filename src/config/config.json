@@ -1,5 +1,6 @@
 {
-    "Host": "192.168.219.108",
+    "Comment": "Host: RaspberryPi IP, Port: Server port, gpioTarget: Registered GPIO pins",
+    "Host": "[RaspberryPi IP]",
     "Port": 8080,
     "gpioTarget": [ 12, 24 ]
 }
