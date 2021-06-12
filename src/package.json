@@ -1,0 +1,24 @@
+{
+  "name": "gpio-web-control",
+  "version": "1.0.0",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.13.4",
+    "pigpio": "^3.3.0"
+  },
+  "description": "https://blog.naver.com/wjoh0315/222375428753",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjoh0315/RaspberryPi_LED_Web_Control.git"
+  },
+  "author": "wjoh0315",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wjoh0315/RaspberryPi_LED_Web_Control/issues"
+  },
+  "homepage": "https://github.com/wjoh0315/RaspberryPi_LED_Web_Control#readme"
+}
